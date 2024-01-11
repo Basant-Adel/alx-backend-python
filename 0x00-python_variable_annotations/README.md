@@ -2,7 +2,7 @@
 
 **`Python`** **`Back-end`**
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-javascript/blob/aad03ee564285626acda8bafb73e2ca7d0f06b77/0x02-ES6_classes/ES6class.jpeg">
+<img src="https://github.com/Basant-Adel/alx-backend-python/blob/2ebdd675f0eb61e01ea66eb2102d617cbb1871ea/0x00-python_variable_annotations/meme1.png">
 
 ## Resources
 
