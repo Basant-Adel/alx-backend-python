@@ -2,7 +2,7 @@
 
 **`Python`** **`Back-end`**
 <br><br>
-<img src="https://github.com/Basant-Adel/alx-backend-python/blob/3884c930364f74b162b3707834a4b5fbcfcadd62/0x01-python_async_function/async.png">
+<img src="https://github.com/Basant-Adel/alx-backend-python/blob/7506ba09f4866bc9c95f9acb075458b64732b3d1/0x02-python_async_comprehension/comprehension.png">
 
 ## Resources
 
